@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29e6995b.css",
+    "main.js": "/static/js/main.578cd74f.js",
+    "static/media/korean restaurant img 1.jpeg": "/static/media/korean restaurant img 1.b8c165132a904f295e9a.jpeg",
+    "static/media/american restaurant img 1.jpeg": "/static/media/american restaurant img 1.513e7d499fda70220de5.jpeg",
+    "static/media/american restaurant img 2.jpeg": "/static/media/american restaurant img 2.9ca78d202217fc433155.jpeg",
+    "static/media/mexican restaurant image 1.jpeg": "/static/media/mexican restaurant image 1.64218d64bec5df96c3a2.jpeg",
+    "index.html": "/index.html",
+    "main.29e6995b.css.map": "/static/css/main.29e6995b.css.map",
+    "main.578cd74f.js.map": "/static/js/main.578cd74f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e6995b.css",
+    "static/js/main.578cd74f.js"
+  ]
+}
